@@ -9,7 +9,7 @@ public class Student {
     
     private String sname;
     private String SID;
-
+//this has been edited on githun
     public Student(String sname, String SID) {
         this.sname = sname;
         this.SID = SID;
